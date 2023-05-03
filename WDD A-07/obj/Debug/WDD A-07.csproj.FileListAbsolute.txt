@@ -1,0 +1,10 @@
+C:\Users\jacob\Desktop\WDD A-07\WDD A-07\bin\WDD A-07.dll.config
+C:\Users\jacob\Desktop\WDD A-07\WDD A-07\bin\WDD A-07.dll
+C:\Users\jacob\Desktop\WDD A-07\WDD A-07\bin\WDD A-07.pdb
+C:\Users\jacob\Desktop\WDD A-07\WDD A-07\obj\Debug\WDD A-07.csproj.AssemblyReference.cache
+C:\Users\jacob\Desktop\WDD A-07\WDD A-07\obj\Debug\WDD A-07.csproj.CoreCompileInputs.cache
+C:\Users\jacob\Desktop\WDD A-07\WDD A-07\obj\Debug\WDD A-07.dll
+C:\Users\jacob\Desktop\WDD A-07\WDD A-07\obj\Debug\WDD A-07.pdb
+C:\Users\jacob\Desktop\WDD A-07\WDD A-07\bin\Newtonsoft.Json.dll
+C:\Users\jacob\Desktop\WDD A-07\WDD A-07\bin\Newtonsoft.Json.xml
+C:\Users\jacob\Desktop\WDD A-07\WDD A-07\obj\Debug\WDD A-07.csproj.CopyComplete
